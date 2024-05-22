@@ -52,6 +52,3 @@ To run the application locally, follow these steps:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please submit an issue or create a pull request.
 
-## Live Website link
-
-https://weatherapp-hmzdev.netlify.app/
